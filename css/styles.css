@@ -1,0 +1,16 @@
+/*** Add your styles here **/
+
+header.site-header{
+  color:black;
+  font-weight: bold;
+  font-size:2rem;
+}
+
+.navbar-brand{
+font-family: 'Merienda', cursive;
+}
+
+.card-header{
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
